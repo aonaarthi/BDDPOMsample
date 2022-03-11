@@ -42,6 +42,8 @@ public class OpenCartStepDef extends TestBase {
 		// setting up the file
 		initialize();
 		
+		System.out.println("phase2");
+		
 	}
 	@Given("User navigates to login page")
 	public void user_navigates_to_login_page() throws IOException {
