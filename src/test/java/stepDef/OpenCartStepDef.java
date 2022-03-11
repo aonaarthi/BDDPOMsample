@@ -39,6 +39,7 @@ public class OpenCartStepDef extends TestBase {
 	@Given("User is on opencart home page")
 	public void user_is_on_opencart_home_page() {
 	   
+		// setting up the file
 		initialize();
 		
 	}
